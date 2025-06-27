@@ -1,9 +1,9 @@
 {
   "mappings": [
     "/content/uni-editor/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json",
-    "/content/aem-boilerplate/redirects:/redirects.json"
+    "/content/uni-editor/configuration:/.helix/config.json",
+    "/content/uni-editor/metadata:/metadata.json",
+    "/content/uni-editor/redirects:/redirects.json"
   ],
   "includes": [
     "/content/uni-editor/"
