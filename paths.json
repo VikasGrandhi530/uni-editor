@@ -2,7 +2,7 @@
   "mappings": [
     "/content/uni-editor/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-boilerplate/metadata:/metadata.json",
     "/content/aem-boilerplate/metadata:/redirects.json"
   ],
   "includes": [
